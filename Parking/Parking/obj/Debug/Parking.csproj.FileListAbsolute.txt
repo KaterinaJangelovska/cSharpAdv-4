@@ -1,0 +1,7 @@
+C:\Users\Kate\Desktop\Parking\Parking\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\Kate\Desktop\Parking\Parking\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\Kate\Desktop\Parking\Parking\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\Kate\Desktop\Parking\Parking\Parking\Parking\obj\Debug\Parking.csprojAssemblyReference.cache
+C:\Users\Kate\Desktop\Parking\Parking\Parking\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Desktop\Parking\Parking\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\Kate\Desktop\Parking\Parking\Parking\Parking\obj\Debug\Parking.pdb
